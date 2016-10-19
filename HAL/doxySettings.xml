@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DoxySettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SettingsFile>C:\ModSense Code\HAL\HAL v0.6 uip\HAL\doxySettings.xml</SettingsFile>
+  <ProjectName>HAL</ProjectName>
+  <DoxyExePath>C:\Users\spilios\AppData\Local\Atmel\AtmelStudio\6.1\Extensions\Atmel\Doxygen Integrator\6.1.0.6\Doxygen\doxygen.exe</DoxyExePath>
+  <UseDefaultSettings>false</UseDefaultSettings>
+  <GenerateAsPartOfBuild>false</GenerateAsPartOfBuild>
+  <ConfigFilePath>C:\ModSense Code\HAL\HAL v0.6 uip\HAL\doxyfile</ConfigFilePath>
+  <OutputDirPath>C:\ModSense Code\HAL\HAL v0.6 uip\HAL\doxygen</OutputDirPath>
+  <Excluded>C:\ModSense Code\HAL\HAL v0.6 uip\HAL\src\usart_example.c</Excluded>
+  <ShowErrorsAndWarnings>false</ShowErrorsAndWarnings>
+</DoxySettings>
